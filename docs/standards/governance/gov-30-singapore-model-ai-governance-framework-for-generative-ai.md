@@ -11,7 +11,7 @@
 - [Singapore — Model AI Governance Framework for Generative AI](https://www.pdpc.gov.sg/help-and-resources/2024/05/model-ai-governance-framework-for-generative-ai)
 
 ## Website Screenshot
-![Singapore Model AI Governance Framework for Generative AI screenshot](./images/singapore-model-ai-governance-framework-generative-ai.png)
+![Singapore Model AI Governance Framework for Generative AI screenshot](./images/Screenshot 1.png)
 
 ## Brief Info
 Reference checklist pack for Singapore — Model AI Governance Framework for Generative AI. Jurisdiction: Singapore. Type: Guidance framework.
